@@ -14,6 +14,7 @@ public class Inc {
 	public void change(int i)
 	{
 		i++;
+        i++;
 	}
 
 }
